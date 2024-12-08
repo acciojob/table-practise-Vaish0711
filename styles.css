@@ -9,9 +9,4 @@ th, td {
     padding: 2px;
     text-align: left;
 }
-table-container {
-    border: 2px solid black;
-    padding: 20px;
-    width: fit-content;
-    margin: auto;
-}
+
