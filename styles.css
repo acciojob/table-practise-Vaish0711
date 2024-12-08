@@ -5,7 +5,7 @@ table {
     width: 10%;
 }
 th, td {
-    border: 20px solid yellow;
+    border: 1px solid;
     padding: 2px;
     text-align: left;
 }
